@@ -47,6 +47,11 @@
   <img src="./examples/shiba-inu.png" alt="旧报纸拼贴柴犬" width="30%">
 </p>
 
+<p align="center">
+  <img src="./examples/wuzhen-breakfast.png" alt="旧报纸拼贴乌镇日常早餐" width="45%">
+  <img src="./examples/guangzhou-dim-sum.png" alt="旧报纸拼贴广州早茶" width="45%">
+</p>
+
 ## 风格特征
 
 - 旧报纸、广告页和食品包装纸的再生材料质感
