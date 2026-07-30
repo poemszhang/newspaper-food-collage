@@ -2,7 +2,7 @@
 
 一个用于生成“旧报纸手撕拼贴”视觉的 Cursor Agent Skill。
 
-它会把自然语言主题转译为真实手工纸艺感的图片提示词：使用旧报纸、食品包装纸和哑光彩纸塑造主体，保留毛边、纸纤维、错位粘贴、印刷纹理与大片暖白留白。
+它会把自然语言主题转译为真实手工纸艺感的图片提示词：使用旧报纸、食品包装纸和哑光彩纸塑造主体，保留毛边、纸纤维、错位粘贴、印刷纹理与大片纯白留白。
 
 ## 灵感来源
 
@@ -16,6 +16,10 @@
 - [美术展ナビ：木村セツ生平与笠间日动美术馆展览介绍](https://artexhibition.jp/topics/news/20260319-AEJ2863376/)
 
 ## 生成案例
+
+<p align="center">
+  <img src="./examples/collection-sheet.png" alt="旧报纸拼贴生成案例合集" width="55%">
+</p>
 
 <p align="center">
   <img src="./examples/kyusu-teapot.png" alt="旧报纸拼贴茶壶" width="30%">
