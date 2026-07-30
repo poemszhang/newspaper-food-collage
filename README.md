@@ -33,6 +33,10 @@
   <img src="./examples/iced-americano.png" alt="旧报纸拼贴冰美式咖啡" width="30%">
 </p>
 
+<p align="center">
+  <img src="./examples/strawberry-shortcake.png" alt="旧报纸拼贴草莓奶油蛋糕" width="30%">
+</p>
+
 ## 风格特征
 
 - 旧报纸、广告页和食品包装纸的再生材料质感
