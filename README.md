@@ -4,6 +4,19 @@
 
 它会把自然语言主题转译为真实手工纸艺感的图片提示词：使用旧报纸、食品包装纸和哑光彩纸塑造主体，保留毛边、纸纤维、错位粘贴、印刷纹理与大片暖白留白。
 
+## 生成案例
+
+<p align="center">
+  <img src="./examples/kyusu-teapot.png" alt="旧报纸拼贴茶壶" width="30%">
+  <img src="./examples/matcha-milk-tea.png" alt="旧报纸拼贴抹茶奶茶" width="30%">
+  <img src="./examples/milk.png" alt="旧报纸拼贴牛奶" width="30%">
+</p>
+
+<p align="center">
+  <img src="./examples/seafood-soup-curry.png" alt="旧报纸拼贴海鲜汤咖喱" width="30%">
+  <img src="./examples/hotpot.png" alt="旧报纸拼贴火锅" width="30%">
+</p>
+
 ## 风格特征
 
 - 旧报纸、广告页和食品包装纸的再生材料质感
