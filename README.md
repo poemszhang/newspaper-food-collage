@@ -26,6 +26,7 @@
 <p align="center">
   <img src="./examples/seafood-soup-curry.png" alt="旧报纸拼贴海鲜汤咖喱" width="30%">
   <img src="./examples/hotpot.png" alt="旧报纸拼贴火锅" width="30%">
+  <img src="./examples/iced-americano.png" alt="旧报纸拼贴冰美式咖啡" width="30%">
 </p>
 
 ## 风格特征
